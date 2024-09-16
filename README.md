@@ -3,4 +3,4 @@ The Medication Waste Dashboard is created using R. It has three tabs: Descriptiv
 The Descriptive Analytics tab has five interactive sections: a sidebar to choose any individual drug, two value boxes that display the total amount of money wasted as well as the dose quantity, and two histograms: one indicates cancelation by the hour and the other shows dollar wasted by the hour. 
 The second tab is a regression model of the drug wastage by hour, with a confidence interval of 95%. For each drug and at each hour it shows the dollar amount of wastage.
 The final tab displays the cost savings if the pharmacy shifts to a just in time production mode from the batch processing mode.
-![Model][https://github.com/saabirjp/Medication-Waste-Reduction/blob/main/MWR1.png]
+![ezcv logo](https://raw.githubusercontent.com/saabirjp/Medication-Waste-Reduction/master/.github/MWR1.png)
