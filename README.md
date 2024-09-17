@@ -6,7 +6,7 @@ The Descriptive Analytics tab has five interactive sections: a sidebar to choose
 ![MWR1](MWR1.png)
 
 The second tab is a regression model of the drug wastage by hour, with a confidence interval of 95%. For each drug and at each hour it shows the dollar amount of wastage.
-![MWR3](MWR3.png)
+![MWR2](MWR2.png)
 
 The final tab displays the cost savings if the pharmacy shifts to a just in time production mode from the batch processing mode.
-![MWR4](MWR4.png)
+![MWR3](MWR3.png)
